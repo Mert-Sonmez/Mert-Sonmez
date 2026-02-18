@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Mert! 👋
 
-<!--
-**Mert-Sonmez/Mert-Sonmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 IT Student & Web Developer
 
-Here are some ideas to get you started:
+I am a 2nd-year IT student based in Romania. I love turning theoretical knowledge into real-world projects and working with modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+- 🌍 **RO Campus:** I built a website to assist Turkish students who want to study in Romania.
+- ⏱️ **Doli:** A sleek, productivity-focused Pomodoro timer application.
+- 🏗️ **Asutay Alüminyum:** Developed a professional web solution for an industrial aluminum manufacturing company.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java, C, SQL, JavaScript, Verilog
+- **Web Development:** HTML5, CSS3, React, Node.js
+- **Tools & Platforms:** Git, GitHub, Netlify, Oracle APEX
+
+---
+
+### 📫 Connect with me
+- **Email:** mertsonmez.eng@gmail.com
