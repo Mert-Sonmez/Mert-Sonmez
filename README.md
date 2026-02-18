@@ -8,7 +8,7 @@ I am a 2nd-year IT student based in Romania. I love turning theoretical knowledg
 
 ### 🚀 Projects
 - 🌍 **[Ro Campus](https://rocampus.com):** I built a website to assist Turkish students who want to study in Romania.
-- ⏱️ **[Doli Pomodoro App](darling-halva-a71f3b.netlify.app):** A sleek, productivity-focused Pomodoro timer application.
+- ⏱️ **[Doli Pomodoro App](https://darling-halva-a71f3b.netlify.app):** A sleek, productivity-focused Pomodoro timer application.
 - 🏗️ **[Asutay Alüminyum](https://asutayaluminyum.com):** Developed a professional web solution for an industrial aluminum manufacturing company.
 
 ---
