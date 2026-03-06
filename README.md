@@ -14,7 +14,7 @@ I am a 2nd-year IT student based in Romania. I love turning theoretical knowledg
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Java, C, SQL, JavaScript, Verilog
+- **Languages:** Java, Python, SQL, JavaScript, Verilog
 - **Web Development:** HTML5, CSS3, React, Node.js
 - **Tools & Platforms:** Git, GitHub, Netlify, Oracle APEX
 
