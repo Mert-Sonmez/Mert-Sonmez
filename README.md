@@ -7,14 +7,3 @@
 - ⏱️ **[Doli Pomodoro App](https://darling-halva-a71f3b.netlify.app):** A sleek, productivity-focused Pomodoro timer application.
 - 🏗️ **[Asutay Alüminyum](https://asutayaluminyum.com):** Developed a professional web solution for an industrial aluminum manufacturing company.
 
----
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** Java, Python, SQL, JavaScript, Verilog
-- **Web Development:** HTML5, CSS3, React, Node.js
-- **Tools & Platforms:** Git, GitHub, Netlify, Oracle APEX
-
----
-
-### 📫 Connect with me
-- **Email:** mertsonmez.eng@gmail.com
