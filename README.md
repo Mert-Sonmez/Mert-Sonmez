@@ -1,9 +1,5 @@
 # Hi there, I'm Mert! 👋
 
-### 👨‍💻 IT Student & Web Developer
-
-I am a 2nd-year IT student based in Romania. I love turning theoretical knowledge into real-world projects and working with modern web technologies.
-
 ---
 
 ### 🚀 Projects
